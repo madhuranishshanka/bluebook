@@ -16,7 +16,7 @@
         <dependency>
             <groupId>org.madhura</groupId>
             <artifactId>biz-app2</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>${project.version}</version>
         </dependency>
         <dependency>
             <groupId>junit</groupId>
